@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-### Hello 👋   I'm Liao RR, this is my profile.
+### Hello 👋   I'm Liao PR, this is my profile.
 
 ### About me
- - 🏢 I’m currently working at EPA.
+ - 🏢 I used to work at the EPA.
  - 🐜 I graduated from NCUE with a master degree in Biology.
- - 🎨 I'm learning React, RWD, Adobe Premiere Pro...etc 
+ - 🎨 I'm learning Vue, RWD, Adobe Premiere Pro...etc 
  - ✉ How to reach me: kiki223556@gmail.com
  - 🔍 Find me on Instagram: https://www.instagram.com/pin.kam.kak/
  - 🎬 Find me on Youtube: https://www.youtube.com/@feelingrightnow
