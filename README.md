@@ -3,6 +3,7 @@
 ### Hello 👋   I'm Liao PR, this is my profile.
 
 ### About me
+ - 🌱 I want to become an excellent frontend engineer.
  - 🏢 I used to work at the EPA.
  - 🐜 I graduated from NCUE with a master degree in Biology.
  - 🎨 I'm learning Vue, pinia, javascript, ajax...etc 
