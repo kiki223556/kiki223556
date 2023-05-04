@@ -5,9 +5,8 @@
 ### About me
  - 🏢 I used to work at the EPA.
  - 🐜 I graduated from NCUE with a master degree in Biology.
- - 🎨 I'm learning Vue, RWD, Adobe Premiere Pro...etc 
+ - 🎨 I'm learning Vue, pinia, javascript, ajax...etc 
  - ✉ How to reach me: kiki223556@gmail.com
- - 🔍 Find me on Instagram: https://www.instagram.com/pin.kam.kak/
  - 🎬 Find me on Youtube: https://www.youtube.com/@feelingrightnow
 
 
